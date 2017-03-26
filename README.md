@@ -37,5 +37,5 @@ You can participate via various ways:
 
 ## Members communication
 - All project related communications needs to be under Github's "Issues" section.
-- All new projects would be tweeted on "datgrp" twitter handle.
+- All new projects would be tweeted on ["datgrp" twitter handle](https://twitter.com/datgrp).
 - All in-person meetings, photos and events needs to be shared on datgrp's [Facebook page](https://www.facebook.com/groups/datgrp/).
